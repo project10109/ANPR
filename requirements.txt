@@ -3,3 +3,4 @@ numpy
 easyocr
 streamlit
 imutils
+matplotlib
