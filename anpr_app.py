@@ -1,6 +1,12 @@
 import streamlit as st
 from PIL import Image , ImageEnhance
-
+import cv2
+from matplotlib import pyplot as plt
+import numpy as np
+import imutils
+import easyocr
+import streamlit as st
+from PIL import Image , ImageEnhance
 hide_streamlit_style = """ <style>
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
